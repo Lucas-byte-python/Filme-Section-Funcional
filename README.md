@@ -2,7 +2,7 @@
 ## Filme-Section-Funcional is a real-time movie search interface built using HTML, CSS, and JavaScript. This project allows users to search for movies and get actual data displayed on the screen, creating an interactive and responsive UI experience.
 
 # 🚀 Key Features:
-##✅ Functional Search Input:
+## ✅ Functional Search Input:
 ### - Users can type the name of a movie and get real-time information using a JavaScript-powered API call.
 
 ## 🎞️ Dynamic Movie Display:
